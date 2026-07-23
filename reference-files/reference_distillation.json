@@ -1,0 +1,2353 @@
+{
+  "B2B": {
+    "saas_software": [
+      {
+        "prompt": "What is the best project management software for remote engineering teams under 50 people",
+        "keywords": [
+          "project management software",
+          "remote engineering teams",
+          "project management software remote teams",
+          "project management software engineering teams",
+          "best project management software small teams",
+          "project management software under 50 employees"
+        ]
+      },
+      {
+        "prompt": "How do I choose a CRM platform that integrates with QuickBooks for a small agency",
+        "keywords": [
+          "crm software",
+          "crm quickbooks integration",
+          "crm platform quickbooks integration",
+          "crm for small agency",
+          "best crm quickbooks",
+          "crm software agency quickbooks integration"
+        ]
+      },
+      {
+        "prompt": "Which HR software is best for onboarding contractors in multiple countries",
+        "keywords": [
+          "hr software",
+          "contractor onboarding",
+          "hr software contractor onboarding",
+          "hr software multiple countries",
+          "best hr software international contractors",
+          "global contractor onboarding software"
+        ]
+      },
+      {
+        "prompt": "What's the most affordable email marketing platform for B2B lead nurturing campaigns",
+        "keywords": [
+          "email marketing platform",
+          "b2b email marketing",
+          "affordable email marketing platform b2b",
+          "email marketing platform lead nurturing",
+          "b2b lead nurturing software",
+          "cheap b2b email marketing tools"
+        ]
+      },
+      {
+        "prompt": "Is there a good alternative to Salesforce for mid market manufacturing companies",
+        "keywords": [
+          "salesforce alternative",
+          "manufacturing crm",
+          "salesforce alternative mid market",
+          "salesforce alternative manufacturing",
+          "crm for manufacturing companies",
+          "best crm mid market manufacturers"
+        ]
+      },
+      {
+        "prompt": "How much does enterprise identity access management software typically cost per user",
+        "keywords": [
+          "identity access management",
+          "iam software",
+          "identity access management software cost",
+          "enterprise iam pricing per user",
+          "iam software cost per user",
+          "identity management software pricing"
+        ]
+      },
+      {
+        "prompt": "What is the best data warehouse solution for a startup migrating off spreadsheets",
+        "keywords": [
+          "data warehouse",
+          "data warehouse solutions",
+          "data warehouse for startups",
+          "best data warehouse solution",
+          "data warehouse migration spreadsheets",
+          "startup data warehouse tools"
+        ]
+      },
+      {
+        "prompt": "Which customer support platform has the best AI chatbot for SaaS companies",
+        "keywords": [
+          "customer support platform",
+          "ai chatbot",
+          "customer support platform ai chatbot",
+          "best support software saas",
+          "ai chatbot customer support saas",
+          "saas customer support platform"
+        ]
+      },
+      {
+        "prompt": "What tools do agencies use to white label SEO reporting dashboards for clients",
+        "keywords": [
+          "white label seo",
+          "seo reporting tools",
+          "white label seo reporting tools",
+          "seo reporting dashboard agencies",
+          "white label seo dashboard",
+          "agency client reporting software"
+        ]
+      },
+      {
+        "prompt": "How can I automate invoice approvals in NetSuite without custom development work",
+        "keywords": [
+          "invoice automation",
+          "netsuite automation",
+          "automate invoice approvals netsuite",
+          "netsuite invoice approval workflow",
+          "netsuite automation without development",
+          "invoice approval automation software"
+        ]
+      }
+    ],
+    "professional_services": [
+      {
+        "prompt": "What's the best technical SEO agency in the US that specializes in site migrations",
+        "keywords": [
+          "technical seo agency",
+          "site migration seo",
+          "technical seo agency US",
+          "technical seo agency site migrations",
+          "best technical seo agency US",
+          "seo agency site migrations US"
+        ]
+      },
+      {
+        "prompt": "How do I find a corporate law firm that handles Series A fundraising in New York",
+        "keywords": [
+          "corporate law firm",
+          "series a fundraising",
+          "corporate law firm series a",
+          "law firm series a fundraising new york",
+          "startup fundraising lawyer new york",
+          "corporate law firm startups NYC"
+        ]
+      },
+      {
+        "prompt": "Which accounting firms specialize in R&D tax credits for software development companies",
+        "keywords": [
+          "rd tax credits",
+          "tax credit specialists",
+          "accounting firm rd tax credits",
+          "rd tax credit software companies",
+          "rd tax credit specialists",
+          "accounting firm software development tax credits"
+        ]
+      },
+      {
+        "prompt": "What should a fractional CFO cost for a SaaS company doing 5 million ARR",
+        "keywords": [
+          "fractional cfo",
+          "fractional cfo services",
+          "fractional cfo cost",
+          "fractional cfo saas company",
+          "fractional cfo pricing 5 million arr",
+          "fractional cfo cost saas"
+        ]
+      },
+      {
+        "prompt": "How do I hire a management consulting firm for supply chain optimization projects",
+        "keywords": [
+          "management consulting firm",
+          "supply chain consultants",
+          "management consulting firm supply chain",
+          "supply chain optimization consultants",
+          "hire supply chain consulting firm",
+          "supply chain consulting services"
+        ]
+      },
+      {
+        "prompt": "What's the average retainer for a B2B PR agency focused on fintech startups",
+        "keywords": [
+          "b2b pr agency",
+          "fintech pr",
+          "b2b pr agency retainer cost",
+          "pr agency fintech startups",
+          "average pr retainer b2b",
+          "fintech pr agency pricing"
+        ]
+      },
+      {
+        "prompt": "Which executive search firms are best for hiring VP of sales in healthcare tech",
+        "keywords": [
+          "executive search firm",
+          "vp sales recruiter",
+          "executive search firm vp sales",
+          "executive search healthcare tech",
+          "vp of sales recruiters healthcare",
+          "best executive search firms healthtech"
+        ]
+      },
+      {
+        "prompt": "How much does a SOC 2 Type 2 audit cost for a small software company",
+        "keywords": [
+          "soc 2 audit",
+          "soc 2 compliance",
+          "soc 2 type 2 audit cost",
+          "soc 2 audit small company",
+          "soc 2 audit cost software company",
+          "soc 2 type 2 pricing"
+        ]
+      },
+      {
+        "prompt": "What are the top intellectual property law firms for filing software patents",
+        "keywords": [
+          "ip law firm",
+          "patent attorney",
+          "intellectual property law firm software patents",
+          "top ip law firms",
+          "software patent attorneys",
+          "ip law firm patent filing"
+        ]
+      },
+      {
+        "prompt": "How do I find a translation agency that handles legal documents in over 20 languages",
+        "keywords": [
+          "translation agency",
+          "legal translation",
+          "translation agency legal documents",
+          "legal translation services multiple languages",
+          "legal document translation agency",
+          "certified legal translation company"
+        ]
+      }
+    ],
+    "manufacturing_industrial": [
+      {
+        "prompt": "Where can I source custom CNC machined aluminum parts with fast turnaround times",
+        "keywords": [
+          "cnc machining",
+          "custom machined parts",
+          "custom cnc machined aluminum parts",
+          "cnc machining fast turnaround",
+          "aluminum cnc machining services",
+          "custom machined parts supplier"
+        ]
+      },
+      {
+        "prompt": "What is the minimum order quantity for private label supplement manufacturing in the US",
+        "keywords": [
+          "supplement manufacturing",
+          "private label supplements",
+          "private label supplement manufacturing moq",
+          "supplement manufacturer minimum order",
+          "private label supplements US",
+          "supplement manufacturing minimum order quantity"
+        ]
+      },
+      {
+        "prompt": "How do I find an injection molding company that offers low volume production runs",
+        "keywords": [
+          "injection molding",
+          "injection molding company",
+          "injection molding low volume",
+          "low volume injection molding company",
+          "small batch injection molding",
+          "injection molding short runs"
+        ]
+      },
+      {
+        "prompt": "Which industrial automation integrators work with Allen Bradley PLC systems in the Midwest",
+        "keywords": [
+          "industrial automation",
+          "plc integrators",
+          "industrial automation integrators allen bradley",
+          "allen bradley plc integrators",
+          "automation integrators midwest",
+          "plc system integration services"
+        ]
+      },
+      {
+        "prompt": "What does it cost to get ISO 9001 certification for a small manufacturing plant",
+        "keywords": [
+          "iso 9001 certification",
+          "iso certification cost",
+          "iso 9001 certification cost",
+          "iso 9001 small manufacturer",
+          "iso 9001 certification manufacturing plant",
+          "iso 9001 certification pricing"
+        ]
+      },
+      {
+        "prompt": "Who are the best contract packaging companies for food products on the East Coast",
+        "keywords": [
+          "contract packaging",
+          "food co-packers",
+          "contract packaging companies food",
+          "food contract packaging east coast",
+          "co-packers food products",
+          "best contract packagers food"
+        ]
+      },
+      {
+        "prompt": "How do I compare quotes from sheet metal fabrication shops for a production run",
+        "keywords": [
+          "sheet metal fabrication",
+          "metal fabrication shop",
+          "sheet metal fabrication quotes",
+          "compare sheet metal fabrication shops",
+          "sheet metal fabrication production run",
+          "sheet metal shop pricing"
+        ]
+      },
+      {
+        "prompt": "What forklift fleet management software works best for warehouses with mixed brands",
+        "keywords": [
+          "forklift fleet management",
+          "fleet management software",
+          "forklift fleet management software",
+          "fleet management mixed forklift brands",
+          "warehouse forklift management software",
+          "forklift telematics software"
+        ]
+      },
+      {
+        "prompt": "Where can I buy wholesale food grade stainless steel tanks for a brewery expansion",
+        "keywords": [
+          "stainless steel tanks",
+          "brewery tanks",
+          "wholesale food grade stainless steel tanks",
+          "brewery stainless steel tanks",
+          "food grade tanks wholesale",
+          "stainless steel brewing tanks supplier"
+        ]
+      },
+      {
+        "prompt": "Which 3PL providers specialize in hazmat storage and shipping for chemical distributors",
+        "keywords": [
+          "hazmat 3pl",
+          "chemical logistics",
+          "3pl hazmat storage shipping",
+          "hazmat 3pl providers",
+          "chemical distribution logistics",
+          "3pl for chemical distributors"
+        ]
+      }
+    ],
+    "marketing_advertising": [
+      {
+        "prompt": "How much should a B2B company budget for LinkedIn ads to generate enterprise leads",
+        "keywords": [
+          "linkedin ads",
+          "b2b linkedin advertising",
+          "linkedin ads budget b2b",
+          "linkedin ads enterprise leads",
+          "b2b linkedin advertising cost",
+          "linkedin lead generation budget"
+        ]
+      },
+      {
+        "prompt": "What's the best account based marketing platform for targeting Fortune 500 buyers",
+        "keywords": [
+          "account based marketing",
+          "abm platform",
+          "account based marketing platform",
+          "abm platform fortune 500",
+          "best abm software enterprise",
+          "account based marketing tools"
+        ]
+      },
+      {
+        "prompt": "Which content marketing agencies specialize in long form content for cybersecurity brands",
+        "keywords": [
+          "content marketing agency",
+          "cybersecurity marketing",
+          "content marketing agency cybersecurity",
+          "long form content agency",
+          "cybersecurity content marketing",
+          "content agency for security brands"
+        ]
+      },
+      {
+        "prompt": "How do I measure the ROI of trade show sponsorships for industrial equipment sales",
+        "keywords": [
+          "trade show roi",
+          "event marketing roi",
+          "trade show sponsorship roi",
+          "measure trade show roi",
+          "trade show roi industrial equipment",
+          "event marketing roi b2b"
+        ]
+      },
+      {
+        "prompt": "What is a good cost per lead benchmark for B2B SaaS paid search campaigns",
+        "keywords": [
+          "cost per lead",
+          "b2b saas marketing benchmarks",
+          "cost per lead benchmark b2b saas",
+          "b2b saas paid search benchmarks",
+          "saas cost per lead google ads",
+          "b2b ppc lead cost benchmark"
+        ]
+      },
+      {
+        "prompt": "Which agencies build and manage outbound cold email campaigns for staffing firms",
+        "keywords": [
+          "cold email agency",
+          "outbound marketing agency",
+          "cold email agency staffing firms",
+          "outbound email campaign agency",
+          "cold email agency b2b",
+          "outbound agency for staffing companies"
+        ]
+      },
+      {
+        "prompt": "How do I run a successful webinar funnel to book demos for enterprise software",
+        "keywords": [
+          "webinar funnel",
+          "webinar marketing",
+          "webinar funnel enterprise software",
+          "webinar funnel book demos",
+          "b2b webinar marketing funnel",
+          "webinar demo generation strategy"
+        ]
+      },
+      {
+        "prompt": "What's the best programmatic advertising platform for reaching hospital procurement teams",
+        "keywords": [
+          "programmatic advertising",
+          "healthcare advertising",
+          "programmatic advertising healthcare buyers",
+          "programmatic platform hospital procurement",
+          "b2b programmatic advertising healthcare",
+          "advertising to hospital procurement teams"
+        ]
+      },
+      {
+        "prompt": "How can a logistics company use podcast sponsorships to reach supply chain executives",
+        "keywords": [
+          "podcast sponsorships",
+          "b2b podcast advertising",
+          "podcast sponsorships supply chain executives",
+          "b2b podcast advertising logistics",
+          "podcast marketing supply chain",
+          "logistics podcast sponsorship strategy"
+        ]
+      },
+      {
+        "prompt": "Which conversion rate optimization agencies have case studies with B2B manufacturing sites",
+        "keywords": [
+          "cro agency",
+          "conversion rate optimization",
+          "conversion rate optimization agency b2b",
+          "cro agency manufacturing",
+          "b2b cro agency case studies",
+          "cro services manufacturing websites"
+        ]
+      }
+    ],
+    "logistics_supply_chain": [
+      {
+        "prompt": "What is the cheapest way to ship LTL freight from Chicago to the West Coast",
+        "keywords": [
+          "ltl freight",
+          "ltl shipping rates",
+          "cheapest ltl freight shipping",
+          "ltl freight chicago west coast",
+          "ltl shipping rates chicago",
+          "affordable ltl freight carriers"
+        ]
+      },
+      {
+        "prompt": "How do I find a customs broker for importing electronics from Taiwan to the US",
+        "keywords": [
+          "customs broker",
+          "electronics import",
+          "customs broker importing electronics",
+          "customs broker taiwan imports",
+          "electronics import customs broker US",
+          "customs brokerage services electronics"
+        ]
+      },
+      {
+        "prompt": "Which freight forwarders handle temperature controlled shipping for pharmaceutical products",
+        "keywords": [
+          "freight forwarder",
+          "cold chain logistics",
+          "freight forwarder temperature controlled",
+          "pharmaceutical freight forwarding",
+          "cold chain freight forwarders",
+          "temperature controlled shipping pharma"
+        ]
+      },
+      {
+        "prompt": "What warehouse management system works best for ecommerce brands doing 1000 orders daily",
+        "keywords": [
+          "warehouse management system",
+          "ecommerce wms",
+          "warehouse management system ecommerce",
+          "wms 1000 orders per day",
+          "best wms for ecommerce brands",
+          "high volume warehouse management software"
+        ]
+      },
+      {
+        "prompt": "How much does last mile delivery outsourcing cost for furniture retailers",
+        "keywords": [
+          "last mile delivery",
+          "furniture delivery",
+          "last mile delivery outsourcing cost",
+          "last mile delivery furniture",
+          "furniture delivery outsourcing",
+          "last mile logistics pricing"
+        ]
+      },
+      {
+        "prompt": "What are the best fulfillment centers for subscription box companies on the West Coast",
+        "keywords": [
+          "fulfillment center",
+          "subscription box fulfillment",
+          "fulfillment centers subscription box",
+          "subscription box fulfillment west coast",
+          "best fulfillment for subscription companies",
+          "subscription box 3pl west coast"
+        ]
+      },
+      {
+        "prompt": "How do I negotiate better parcel shipping rates with UPS and FedEx as a mid size shipper",
+        "keywords": [
+          "parcel shipping rates",
+          "shipping rate negotiation",
+          "negotiate parcel shipping rates",
+          "ups fedex rate negotiation",
+          "parcel rate negotiation mid size shipper",
+          "lower shipping rates ups fedex"
+        ]
+      },
+      {
+        "prompt": "Which supply chain visibility platforms integrate with SAP for real time tracking",
+        "keywords": [
+          "supply chain visibility",
+          "supply chain software",
+          "supply chain visibility platform sap",
+          "real time supply chain tracking",
+          "supply chain visibility software",
+          "sap supply chain integration tools"
+        ]
+      },
+      {
+        "prompt": "What does drayage cost from the Port of Long Beach to Inland Empire warehouses",
+        "keywords": [
+          "drayage",
+          "port drayage rates",
+          "drayage cost port of long beach",
+          "drayage long beach inland empire",
+          "port drayage rates california",
+          "container drayage pricing long beach"
+        ]
+      },
+      {
+        "prompt": "How do I set up a vendor managed inventory program with my key suppliers",
+        "keywords": [
+          "vendor managed inventory",
+          "vmi program",
+          "vendor managed inventory program",
+          "set up vmi with suppliers",
+          "vendor managed inventory setup",
+          "vmi program implementation"
+        ]
+      }
+    ],
+    "cybersecurity": [
+      {
+        "prompt": "What's the best endpoint detection and response platform for a 200 person company",
+        "keywords": [
+          "endpoint detection and response",
+          "edr software",
+          "edr platform 200 employees",
+          "best edr software smb",
+          "endpoint detection response pricing",
+          "edr solution mid size company"
+        ]
+      },
+      {
+        "prompt": "How much does a penetration test cost for a SaaS company before SOC 2",
+        "keywords": [
+          "penetration testing",
+          "soc 2 compliance",
+          "penetration test cost saas",
+          "pentest pricing soc 2",
+          "saas pentest before audit",
+          "security penetration test quote"
+        ]
+      },
+      {
+        "prompt": "Which SIEM tool is easiest to deploy for a small security team",
+        "keywords": [
+          "siem tool",
+          "siem software",
+          "easiest siem to deploy",
+          "siem for small security team",
+          "best siem small team",
+          "siem deployment comparison"
+        ]
+      },
+      {
+        "prompt": "What is the best vulnerability management platform for a healthcare company",
+        "keywords": [
+          "vulnerability management platform",
+          "vulnerability scanner",
+          "vulnerability management healthcare",
+          "best vulnerability scanner healthcare",
+          "vulnerability management software hipaa",
+          "healthcare vulnerability management tools"
+        ]
+      },
+      {
+        "prompt": "How do I find a managed security service provider for after hours monitoring",
+        "keywords": [
+          "managed security service provider",
+          "mssp",
+          "mssp after hours monitoring",
+          "24/7 security monitoring provider",
+          "managed detection and response",
+          "mssp for small business"
+        ]
+      },
+      {
+        "prompt": "What's the average cost of a SOC 2 readiness assessment for a startup",
+        "keywords": [
+          "soc 2 readiness assessment",
+          "soc 2 gap assessment",
+          "soc 2 readiness cost startup",
+          "soc 2 assessment pricing",
+          "soc 2 gap analysis cost",
+          "soc 2 prep consultant"
+        ]
+      },
+      {
+        "prompt": "Which phishing simulation platform integrates best with Microsoft 365",
+        "keywords": [
+          "phishing simulation platform",
+          "phishing simulation software",
+          "phishing simulation microsoft 365",
+          "security awareness training microsoft 365",
+          "phishing simulation tool integration",
+          "best phishing simulation platform"
+        ]
+      },
+      {
+        "prompt": "What is the best cloud security posture management tool for AWS",
+        "keywords": [
+          "cloud security posture management",
+          "cspm tool",
+          "cspm for aws",
+          "best cspm aws",
+          "aws security posture management tool",
+          "cloud security compliance aws"
+        ]
+      },
+      {
+        "prompt": "How do I choose an identity and access management solution for a remote workforce",
+        "keywords": [
+          "identity and access management",
+          "iam solution",
+          "iam for remote workforce",
+          "best iam software remote teams",
+          "identity management remote employees",
+          "iam solution comparison"
+        ]
+      },
+      {
+        "prompt": "What's a reasonable price for a third party security risk assessment vendor",
+        "keywords": [
+          "third party risk assessment",
+          "vendor security assessment",
+          "security risk assessment vendor cost",
+          "third party security audit pricing",
+          "vendor risk management assessment",
+          "security risk assessment quote"
+        ]
+      }
+    ],
+    "hr_staffing": [
+      {
+        "prompt": "What's the best applicant tracking system for a company hiring under 50 people a year",
+        "keywords": [
+          "applicant tracking system",
+          "ats software",
+          "ats for small hiring volume",
+          "best ats software small company",
+          "applicant tracking system pricing",
+          "ats under 50 hires"
+        ]
+      },
+      {
+        "prompt": "How much does it cost to use a staffing agency for temp warehouse workers",
+        "keywords": [
+          "staffing agency cost",
+          "temp staffing agency",
+          "staffing agency warehouse workers",
+          "temp agency pricing warehouse",
+          "warehouse staffing agency rates",
+          "temporary staffing cost per hour"
+        ]
+      },
+      {
+        "prompt": "Which payroll provider is best for a company with contractors in five countries",
+        "keywords": [
+          "payroll provider",
+          "global payroll software",
+          "payroll provider multiple countries",
+          "best payroll international contractors",
+          "global payroll contractors",
+          "payroll software 5 countries"
+        ]
+      },
+      {
+        "prompt": "What is the best background check service for healthcare hiring",
+        "keywords": [
+          "background check service",
+          "employment background check",
+          "background check healthcare hiring",
+          "best background check provider healthcare",
+          "healthcare background screening company",
+          "pre employment screening healthcare"
+        ]
+      },
+      {
+        "prompt": "How do I find an executive recruiter specializing in VP of engineering roles",
+        "keywords": [
+          "executive recruiter",
+          "engineering executive search",
+          "executive recruiter vp engineering",
+          "vp engineering headhunter",
+          "engineering executive recruiting firm",
+          "executive search vp engineering"
+        ]
+      },
+      {
+        "prompt": "What's the average markup a staffing agency charges for contract to hire roles",
+        "keywords": [
+          "staffing agency markup",
+          "contract to hire markup",
+          "staffing agency fee percentage",
+          "contract to hire staffing cost",
+          "staffing markup rate",
+          "contract to hire"
+        ]
+      },
+      {
+        "prompt": "Which HRIS system integrates best with QuickBooks for a small business",
+        "keywords": [
+          "hris system",
+          "hris quickbooks integration",
+          "best hris small business",
+          "hr software quickbooks",
+          "hris integration accounting",
+          "small business hris comparison"
+        ]
+      },
+      {
+        "prompt": "How much does an RPO provider typically charge per hire",
+        "keywords": [
+          "rpo provider",
+          "recruitment process outsourcing",
+          "rpo cost per hire",
+          "rpo pricing model",
+          "recruitment process outsourcing cost",
+          "rpo provider fees"
+        ]
+      },
+      {
+        "prompt": "What's the best employee benefits administration platform for a 100 person company",
+        "keywords": [
+          "benefits administration platform",
+          "benefits admin software",
+          "benefits platform 100 employees",
+          "best benefits administration software",
+          "employee benefits software small company",
+          "benefits enrollment platform"
+        ]
+      },
+      {
+        "prompt": "How do I find a PEO that handles workers comp in multiple states",
+        "keywords": [
+          "peo services",
+          "professional employer organization",
+          "peo multiple states workers comp",
+          "best peo workers comp",
+          "peo workers compensation coverage",
+          "workers compensation insurance"
+        ]
+      }
+    ],
+    "financial_technology": [
+      {
+        "prompt": "What's the best embedded payments platform for a marketplace startup",
+        "keywords": [
+          "embedded payments platform",
+          "payments api marketplace",
+          "embedded payments startup",
+          "best payments platform marketplace",
+          "marketplace payment processing api",
+          "embedded finance platform"
+        ]
+      },
+      {
+        "prompt": "How much does it cost to integrate a banking as a service provider",
+        "keywords": [
+          "banking as a service",
+          "baas provider cost",
+          "banking as a service integration",
+          "baas platform pricing",
+          "embedded banking provider cost",
+          "baas integration fees"
+        ]
+      },
+      {
+        "prompt": "Which fraud detection API is best for a fintech doing card not present transactions",
+        "keywords": [
+          "fraud detection api",
+          "card not present fraud",
+          "fraud detection fintech",
+          "best fraud prevention api",
+          "cnp fraud detection software",
+          "fraud scoring api pricing"
+        ]
+      },
+      {
+        "prompt": "What is the best KYC verification vendor for a crypto exchange",
+        "keywords": [
+          "kyc verification vendor",
+          "kyc api",
+          "kyc for crypto exchange",
+          "best kyc provider crypto",
+          "identity verification crypto exchange",
+          "kyc aml compliance vendor"
+        ]
+      },
+      {
+        "prompt": "How do I choose a ledger and reconciliation system for a multi entity fintech",
+        "keywords": [
+          "ledger reconciliation system",
+          "general ledger software fintech",
+          "reconciliation software multi entity",
+          "best ledger system fintech",
+          "financial reconciliation platform",
+          "multi entity accounting ledger"
+        ]
+      },
+      {
+        "prompt": "What's the average cost of a money transmitter license application in the US",
+        "keywords": [
+          "money transmitter license",
+          "mtl application cost",
+          "money transmitter license fees",
+          "mtl licensing cost us",
+          "money services business license",
+          "mtl compliance cost"
+        ]
+      },
+      {
+        "prompt": "Which card issuing platform lets us launch a corporate expense card fastest",
+        "keywords": [
+          "card issuing platform",
+          "corporate card issuing api",
+          "fastest card issuing platform",
+          "card issuance api fintech",
+          "expense card issuing provider",
+          "corporate card program platform"
+        ]
+      },
+      {
+        "prompt": "What's the best treasury management API for a B2B payments company",
+        "keywords": [
+          "treasury management api",
+          "treasury api fintech",
+          "best treasury management software b2b",
+          "corporate treasury api",
+          "treasury management platform payments",
+          "b2b treasury solution"
+        ]
+      },
+      {
+        "prompt": "How do I find a compliant lending origination platform for small business loans",
+        "keywords": [
+          "loan origination platform",
+          "lending origination software",
+          "small business loan origination system",
+          "compliant lending platform",
+          "loan origination api fintech",
+          "sme lending software"
+        ]
+      },
+      {
+        "prompt": "What's the cost difference between Stripe and Adyen for a high volume subscription business",
+        "keywords": [
+          "stripe vs adyen",
+          "payment processor comparison",
+          "stripe adyen pricing subscription",
+          "high volume payment processor cost",
+          "subscription billing payment processor",
+          "stripe adyen fees comparison"
+        ]
+      }
+    ],
+    "insurance_b2b": [
+      {
+        "prompt": "What's the average cost of general liability insurance for a construction contractor",
+        "keywords": [
+          "general liability insurance",
+          "contractor liability insurance",
+          "general liability insurance construction cost",
+          "contractor gl insurance quote",
+          "commercial liability insurance contractors",
+          "gl insurance cost construction"
+        ]
+      },
+      {
+        "prompt": "Which commercial auto insurance provider is best for a fleet of delivery vans",
+        "keywords": [
+          "commercial auto insurance",
+          "fleet insurance provider",
+          "commercial auto insurance delivery fleet",
+          "best fleet insurance company",
+          "commercial vehicle insurance vans",
+          "fleet auto insurance quote"
+        ]
+      },
+      {
+        "prompt": "How much does cyber liability insurance cost for a small SaaS company",
+        "keywords": [
+          "cyber liability insurance",
+          "cyber insurance cost saas",
+          "cyber liability insurance small business",
+          "cyber insurance quote software company",
+          "cyber insurance pricing saas",
+          "data breach insurance cost"
+        ]
+      },
+      {
+        "prompt": "What is the best errors and omissions insurance for a management consulting firm",
+        "keywords": [
+          "errors and omissions insurance",
+          "e&o insurance consulting",
+          "best e&o insurance consultants",
+          "professional liability insurance consulting firm",
+          "e&o insurance quote",
+          "management consulting liability insurance"
+        ]
+      },
+      {
+        "prompt": "How do I find workers compensation insurance for a company with remote employees in multiple states",
+        "keywords": [
+          "workers compensation insurance",
+          "workers comp multiple states",
+          "workers comp insurance remote employees",
+          "multi state workers comp coverage",
+          "workers compensation quote remote workforce",
+          "workers comp insurance provider"
+        ]
+      },
+      {
+        "prompt": "What's the average premium for commercial property insurance on a warehouse",
+        "keywords": [
+          "commercial property insurance",
+          "warehouse insurance cost",
+          "commercial property insurance warehouse",
+          "warehouse insurance premium",
+          "property insurance quote warehouse",
+          "industrial property insurance cost"
+        ]
+      },
+      {
+        "prompt": "Which insurtech platform is best for embedding insurance into a checkout flow",
+        "keywords": [
+          "embedded insurance platform",
+          "insurtech api",
+          "embedded insurance checkout",
+          "best embedded insurance provider",
+          "insurance api ecommerce",
+          "embedded insurance integration"
+        ]
+      },
+      {
+        "prompt": "How much does directors and officers insurance cost for a pre IPO startup",
+        "keywords": [
+          "directors and officers insurance",
+          "d&o insurance cost",
+          "d&o insurance startup",
+          "d&o insurance pre ipo",
+          "directors officers liability insurance quote",
+          "d&o coverage startup cost"
+        ]
+      },
+      {
+        "prompt": "What is the best group health insurance broker for a 30 person startup",
+        "keywords": [
+          "group health insurance broker",
+          "small business health insurance broker",
+          "group health insurance startup",
+          "best health insurance broker small company",
+          "group health plan broker quote",
+          "employee health insurance broker"
+        ]
+      },
+      {
+        "prompt": "How do I compare business interruption insurance providers for a manufacturing plant",
+        "keywords": [
+          "business interruption insurance",
+          "business interruption insurance manufacturing",
+          "bi insurance provider comparison",
+          "business interruption coverage plant",
+          "manufacturing business interruption insurance",
+          "business interruption insurance quote"
+        ]
+      }
+    ],
+    "commercial_real_estate": [
+      {
+        "prompt": "How do I find a commercial real estate broker for leasing office space downtown",
+        "keywords": [
+          "commercial real estate broker",
+          "office space leasing broker",
+          "commercial real estate broker downtown",
+          "office leasing agent",
+          "commercial broker office space",
+          "downtown office space broker"
+        ]
+      },
+      {
+        "prompt": "What's the average price per square foot for warehouse space in a logistics hub",
+        "keywords": [
+          "warehouse space price per square foot",
+          "industrial real estate pricing",
+          "warehouse lease rate logistics hub",
+          "warehouse space cost per sqft",
+          "industrial space rental price",
+          "warehouse leasing rates"
+        ]
+      },
+      {
+        "prompt": "Which commercial property management company is best for a multi tenant office building",
+        "keywords": [
+          "commercial property management company",
+          "property management multi tenant office",
+          "best commercial property manager",
+          "office building property management",
+          "commercial real estate management firm",
+          "multi tenant property management"
+        ]
+      },
+      {
+        "prompt": "How do I get a commercial mortgage for purchasing a retail strip mall",
+        "keywords": [
+          "commercial mortgage",
+          "commercial real estate loan retail",
+          "commercial mortgage strip mall",
+          "retail property financing",
+          "commercial property loan rates",
+          "cre loan retail center"
+        ]
+      },
+      {
+        "prompt": "What's the average cap rate for industrial properties right now",
+        "keywords": [
+          "industrial cap rates",
+          "cap rate industrial real estate",
+          "current industrial property cap rates",
+          "industrial real estate cap rate trends",
+          "cre cap rate industrial",
+          "industrial investment property cap rate"
+        ]
+      },
+      {
+        "prompt": "How do I find a tenant representation firm for relocating a corporate headquarters",
+        "keywords": [
+          "tenant representation firm",
+          "corporate relocation real estate",
+          "tenant rep broker headquarters relocation",
+          "corporate hq relocation broker",
+          "tenant representation services",
+          "office relocation real estate advisor"
+        ]
+      },
+      {
+        "prompt": "What is the average cost per square foot to build out a new office space",
+        "keywords": [
+          "office build out cost per square foot",
+          "tenant improvement cost",
+          "office space build out pricing",
+          "commercial build out cost estimate",
+          "tenant improvement allowance cost",
+          "office construction cost per sqft"
+        ]
+      },
+      {
+        "prompt": "Which commercial real estate appraisal firm is best for a mixed use development",
+        "keywords": [
+          "commercial real estate appraisal firm",
+          "mixed use property appraisal",
+          "cre appraisal mixed use development",
+          "commercial appraiser mixed use",
+          "real estate appraisal firm commercial",
+          "mixed use development valuation"
+        ]
+      },
+      {
+        "prompt": "How do I find a 1031 exchange intermediary for a commercial property sale",
+        "keywords": [
+          "1031 exchange intermediary",
+          "qualified intermediary 1031",
+          "1031 exchange commercial property",
+          "1031 exchange company",
+          "commercial real estate 1031 exchange",
+          "qualified intermediary commercial property"
+        ]
+      },
+      {
+        "prompt": "What's the best commercial real estate listing platform for finding industrial space",
+        "keywords": [
+          "commercial real estate listing platform",
+          "industrial space listings",
+          "best cre listing site industrial",
+          "commercial property search platform",
+          "industrial real estate marketplace",
+          "commercial listing site industrial space"
+        ]
+      }
+    ]
+  },
+  "B2C": {
+    "home_services": [
+      {
+        "prompt": "How much does it cost to replace a roof on a 2000 square foot house",
+        "keywords": [
+          "roof replacement",
+          "roof replacement cost",
+          "roof replacement cost 2000 square feet",
+          "cost to replace roof",
+          "new roof price 2000 sq ft house"
+        ]
+      },
+      {
+        "prompt": "Who are the best rated emergency plumbers near me that work on weekends",
+        "keywords": [
+          "emergency plumber",
+          "24 hour plumber",
+          "emergency plumber near me",
+          "emergency plumber weekends",
+          "best rated plumbers near me",
+          "24 hour plumber weekend service"
+        ]
+      },
+      {
+        "prompt": "What is the average price to install central air conditioning in an older home",
+        "keywords": [
+          "central air installation",
+          "hvac installation",
+          "central air conditioning installation cost",
+          "install central air older home",
+          "average cost central ac install",
+          "central air installation price"
+        ]
+      },
+      {
+        "prompt": "How do I find a licensed electrician to install an EV charger in my garage",
+        "keywords": [
+          "ev charger installation",
+          "electrician near me",
+          "licensed electrician ev charger",
+          "ev charger installation garage",
+          "electrician install ev charger",
+          "ev charger installation cost"
+        ]
+      },
+      {
+        "prompt": "Should I repair or replace my 15 year old water heater that's leaking",
+        "keywords": [
+          "water heater replacement",
+          "water heater repair",
+          "repair or replace water heater",
+          "leaking water heater repair",
+          "15 year old water heater replacement",
+          "water heater repair vs replace"
+        ]
+      },
+      {
+        "prompt": "What do professional house cleaning services charge for a deep clean before moving out",
+        "keywords": [
+          "house cleaning services",
+          "move out cleaning",
+          "house cleaning deep clean cost",
+          "move out cleaning services",
+          "deep cleaning price moving out",
+          "professional move out cleaning cost"
+        ]
+      },
+      {
+        "prompt": "How much does it cost to remodel a small bathroom with a walk in shower",
+        "keywords": [
+          "bathroom remodel",
+          "bathroom renovation cost",
+          "small bathroom remodel cost",
+          "bathroom remodel walk in shower",
+          "walk in shower remodel price",
+          "small bathroom renovation cost"
+        ]
+      },
+      {
+        "prompt": "Who installs vinyl privacy fencing and how much does it cost per linear foot",
+        "keywords": [
+          "vinyl fence installation",
+          "privacy fence cost",
+          "vinyl privacy fence installation",
+          "vinyl fence cost per linear foot",
+          "privacy fence installers",
+          "vinyl fencing installation price"
+        ]
+      },
+      {
+        "prompt": "What's the best pest control company for getting rid of carpenter ants permanently",
+        "keywords": [
+          "pest control",
+          "ant exterminator",
+          "pest control carpenter ants",
+          "best pest control company",
+          "get rid of carpenter ants",
+          "carpenter ant exterminator"
+        ]
+      },
+      {
+        "prompt": "How often should I have my septic tank pumped and what does it cost",
+        "keywords": [
+          "septic tank pumping",
+          "septic service",
+          "how often pump septic tank",
+          "septic tank pumping cost",
+          "septic tank pumping frequency",
+          "septic pumping service price"
+        ]
+      }
+    ],
+    "health_wellness": [
+      {
+        "prompt": "How much does Invisalign cost compared to traditional braces for adults",
+        "keywords": [
+          "invisalign",
+          "adult braces",
+          "invisalign cost vs braces",
+          "invisalign cost adults",
+          "invisalign vs braces price",
+          "adult braces cost comparison"
+        ]
+      },
+      {
+        "prompt": "What is the best online therapy platform that accepts insurance for anxiety treatment",
+        "keywords": [
+          "online therapy",
+          "therapy for anxiety",
+          "online therapy accepts insurance",
+          "online therapy platform anxiety",
+          "best online therapy insurance",
+          "teletherapy anxiety treatment insurance"
+        ]
+      },
+      {
+        "prompt": "Where can I get same day dental crowns near me without a referral",
+        "keywords": [
+          "dental crowns",
+          "same day crowns",
+          "same day dental crowns near me",
+          "same day crowns no referral",
+          "cerec crowns near me",
+          "one visit dental crown"
+        ]
+      },
+      {
+        "prompt": "How do I choose a dermatologist for adult acne that takes my insurance",
+        "keywords": [
+          "dermatologist",
+          "acne treatment",
+          "dermatologist adult acne",
+          "dermatologist takes my insurance",
+          "adult acne treatment dermatologist",
+          "find dermatologist acne insurance"
+        ]
+      },
+      {
+        "prompt": "What does LASIK eye surgery cost and is it covered by vision insurance",
+        "keywords": [
+          "lasik",
+          "lasik cost",
+          "lasik eye surgery cost",
+          "lasik covered by insurance",
+          "lasik surgery price",
+          "vision insurance lasik coverage"
+        ]
+      },
+      {
+        "prompt": "Are there weight loss clinics near me that prescribe GLP-1 medications",
+        "keywords": [
+          "weight loss clinic",
+          "glp-1 medication",
+          "weight loss clinic near me",
+          "weight loss clinic glp-1",
+          "glp-1 prescription near me",
+          "medical weight loss clinic"
+        ]
+      },
+      {
+        "prompt": "How much does physical therapy cost per session without insurance coverage",
+        "keywords": [
+          "physical therapy",
+          "physical therapy cost",
+          "physical therapy cost per session",
+          "physical therapy without insurance",
+          "pt session cost no insurance",
+          "physical therapy self pay price"
+        ]
+      },
+      {
+        "prompt": "What's the difference between a chiropractor and physical therapist for lower back pain",
+        "keywords": [
+          "chiropractor",
+          "lower back pain treatment",
+          "chiropractor vs physical therapist",
+          "chiropractor or pt lower back pain",
+          "lower back pain chiropractor",
+          "physical therapy for back pain"
+        ]
+      },
+      {
+        "prompt": "Where can I find a functional medicine doctor who specializes in thyroid issues",
+        "keywords": [
+          "functional medicine",
+          "thyroid specialist",
+          "functional medicine doctor thyroid",
+          "functional medicine near me",
+          "thyroid specialist functional medicine",
+          "functional doctor thyroid issues"
+        ]
+      },
+      {
+        "prompt": "How do I find an in network pediatric dentist that's good with anxious kids",
+        "keywords": [
+          "pediatric dentist",
+          "kids dentist",
+          "in network pediatric dentist",
+          "pediatric dentist anxious kids",
+          "pediatric dentist for nervous children",
+          "kids dentist in network"
+        ]
+      }
+    ],
+    "fitness_recreation": [
+      {
+        "prompt": "What is the best home gym setup for small apartments under 500 dollars",
+        "keywords": [
+          "home gym",
+          "home gym equipment",
+          "home gym setup small apartment",
+          "home gym under 500 dollars",
+          "best budget home gym",
+          "apartment home gym equipment"
+        ]
+      },
+      {
+        "prompt": "How do I choose between a personal trainer and group fitness classes for weight loss",
+        "keywords": [
+          "personal trainer",
+          "group fitness classes",
+          "personal trainer vs group classes",
+          "personal trainer for weight loss",
+          "group fitness vs personal training",
+          "weight loss personal trainer"
+        ]
+      },
+      {
+        "prompt": "Which running shoes are best for flat feet and plantar fasciitis pain",
+        "keywords": [
+          "running shoes",
+          "shoes for flat feet",
+          "running shoes flat feet",
+          "running shoes plantar fasciitis",
+          "best shoes flat feet plantar fasciitis",
+          "running shoes for overpronation"
+        ]
+      },
+      {
+        "prompt": "What does a one on one pilates reformer session typically cost per hour",
+        "keywords": [
+          "pilates reformer",
+          "private pilates",
+          "pilates reformer session cost",
+          "one on one pilates price",
+          "private pilates cost per hour",
+          "reformer pilates pricing"
+        ]
+      },
+      {
+        "prompt": "Are there beginner friendly rock climbing gyms near me with intro classes",
+        "keywords": [
+          "rock climbing gym",
+          "climbing classes",
+          "beginner rock climbing gym near me",
+          "rock climbing intro classes",
+          "climbing gym beginner classes",
+          "indoor climbing for beginners"
+        ]
+      },
+      {
+        "prompt": "How much should I expect to pay for a full set of custom fitted golf clubs",
+        "keywords": [
+          "custom golf clubs",
+          "golf club fitting",
+          "custom fitted golf clubs cost",
+          "golf club fitting price",
+          "full set custom golf clubs",
+          "custom golf clubs pricing"
+        ]
+      },
+      {
+        "prompt": "What's the best fitness tracker for swimming and open water triathlon training",
+        "keywords": [
+          "fitness tracker",
+          "triathlon watch",
+          "fitness tracker swimming",
+          "fitness tracker triathlon training",
+          "best swim watch open water",
+          "triathlon watch swimming"
+        ]
+      },
+      {
+        "prompt": "Which yoga teacher training programs are accredited and offered on weekends",
+        "keywords": [
+          "yoga teacher training",
+          "yoga certification",
+          "yoga teacher training weekends",
+          "accredited yoga teacher training",
+          "weekend yoga certification",
+          "200 hour yoga teacher training"
+        ]
+      },
+      {
+        "prompt": "How do I find adult beginner tennis lessons at public courts in my city",
+        "keywords": [
+          "tennis lessons",
+          "adult tennis lessons",
+          "adult beginner tennis lessons",
+          "tennis lessons public courts",
+          "beginner tennis lessons near me",
+          "adult tennis classes"
+        ]
+      },
+      {
+        "prompt": "What is a fair monthly price for a CrossFit membership with unlimited classes",
+        "keywords": [
+          "crossfit membership",
+          "crossfit gym",
+          "crossfit membership price",
+          "crossfit unlimited classes cost",
+          "crossfit monthly membership",
+          "average crossfit gym price"
+        ]
+      }
+    ],
+    "ecommerce_retail": [
+      {
+        "prompt": "What is the best organic cotton bedding brand that ships free in the US",
+        "keywords": [
+          "organic cotton bedding",
+          "organic sheets",
+          "organic cotton bedding brand",
+          "organic bedding free shipping",
+          "best organic cotton sheets",
+          "organic bedding brands US"
+        ]
+      },
+      {
+        "prompt": "Where can I buy ethically sourced lab grown diamond engagement rings online",
+        "keywords": [
+          "lab grown diamonds",
+          "engagement rings",
+          "lab grown diamond engagement rings",
+          "ethically sourced engagement rings",
+          "lab diamond rings online",
+          "buy lab grown diamonds"
+        ]
+      },
+      {
+        "prompt": "Which meal kit delivery service is cheapest for a family of four with picky eaters",
+        "keywords": [
+          "meal kit delivery",
+          "family meal kits",
+          "cheapest meal kit delivery",
+          "meal kit family of four",
+          "meal kits for picky eaters",
+          "affordable family meal delivery"
+        ]
+      },
+      {
+        "prompt": "What are the most durable kids backpacks that come with a lifetime warranty",
+        "keywords": [
+          "kids backpacks",
+          "school backpacks",
+          "durable kids backpacks",
+          "kids backpack lifetime warranty",
+          "most durable school backpacks",
+          "best kids backpacks warranty"
+        ]
+      },
+      {
+        "prompt": "How do I find non toxic cookware that works on induction stovetops",
+        "keywords": [
+          "non toxic cookware",
+          "induction cookware",
+          "non toxic cookware induction",
+          "induction compatible cookware",
+          "best non toxic pans induction stove"
+        ]
+      },
+      {
+        "prompt": "Which online mattress brand is best for side sleepers with back pain",
+        "keywords": [
+          "online mattress",
+          "mattress for side sleepers",
+          "online mattress side sleepers",
+          "mattress for side sleepers back pain",
+          "best mattress brand back pain",
+          "side sleeper mattress online"
+        ]
+      },
+      {
+        "prompt": "Where can I order custom framed prints of my own photos at affordable prices",
+        "keywords": [
+          "custom framing",
+          "framed prints",
+          "custom framed prints online",
+          "affordable custom framing",
+          "frame your own photos online",
+          "custom photo framing prices"
+        ]
+      },
+      {
+        "prompt": "What's the best subscription box for science experiments for kids ages 8 to 12",
+        "keywords": [
+          "subscription box kids",
+          "stem subscription box",
+          "science subscription box kids",
+          "science experiment box ages 8-12",
+          "best stem subscription box",
+          "kids science kit subscription"
+        ]
+      },
+      {
+        "prompt": "Are there sustainable sneaker brands made from recycled materials worth buying",
+        "keywords": [
+          "sustainable sneakers",
+          "eco friendly shoes",
+          "sustainable sneaker brands",
+          "sneakers made from recycled materials",
+          "eco friendly sneakers",
+          "recycled material shoes"
+        ]
+      },
+      {
+        "prompt": "How do I choose an espresso machine under 800 dollars for beginners at home",
+        "keywords": [
+          "espresso machine",
+          "home espresso machine",
+          "espresso machine under 800",
+          "beginner espresso machine home",
+          "best espresso machine beginners",
+          "home espresso machine budget"
+        ]
+      }
+    ],
+    "travel_hospitality": [
+      {
+        "prompt": "What are the best all inclusive resorts in Mexico for families with toddlers",
+        "keywords": [
+          "all inclusive resorts",
+          "mexico family resorts",
+          "all inclusive resorts mexico families",
+          "mexico resorts for toddlers",
+          "family all inclusive mexico",
+          "best mexico resorts young kids"
+        ]
+      },
+      {
+        "prompt": "How far in advance should I book flights to Europe for the cheapest summer fares",
+        "keywords": [
+          "cheap flights to europe",
+          "book flights europe",
+          "when to book flights to europe",
+          "cheapest time book europe flights",
+          "book flights europe summer",
+          "best time to buy europe airfare"
+        ]
+      },
+      {
+        "prompt": "Which travel credit card has the best sign up bonus with no annual fee",
+        "keywords": [
+          "travel credit card",
+          "travel rewards card",
+          "travel credit card sign up bonus",
+          "travel card no annual fee",
+          "best travel credit card bonus",
+          "no fee travel rewards card"
+        ]
+      },
+      {
+        "prompt": "What are the most dog friendly beach towns for a weekend trip from Chicago",
+        "keywords": [
+          "dog friendly beaches",
+          "weekend trips from chicago",
+          "dog friendly beach towns",
+          "dog friendly weekend trips chicago",
+          "beach towns near chicago",
+          "pet friendly beach getaways midwest"
+        ]
+      },
+      {
+        "prompt": "How much does a 7 day Alaska cruise cost including excursions and gratuities",
+        "keywords": [
+          "alaska cruise",
+          "alaska cruise cost",
+          "7 day alaska cruise cost",
+          "alaska cruise price with excursions",
+          "alaska cruise total cost",
+          "alaska cruise cost gratuities"
+        ]
+      },
+      {
+        "prompt": "Is travel insurance worth it for an international trip and what does it cover",
+        "keywords": [
+          "travel insurance",
+          "international travel insurance",
+          "is travel insurance worth it",
+          "travel insurance international trip",
+          "what does travel insurance cover"
+        ]
+      },
+      {
+        "prompt": "What are the best boutique hotels in Lisbon within walking distance of Alfama",
+        "keywords": [
+          "lisbon hotels",
+          "boutique hotels lisbon",
+          "hotels near alfama lisbon",
+          "best boutique hotels alfama",
+          "lisbon boutique hotels walking distance"
+        ]
+      },
+      {
+        "prompt": "How do I plan a national parks road trip through Utah in two weeks",
+        "keywords": [
+          "utah national parks",
+          "national parks road trip",
+          "utah national parks road trip",
+          "two week utah road trip",
+          "utah mighty five itinerary",
+          "national parks road trip planning utah"
+        ]
+      },
+      {
+        "prompt": "Which airlines allow free carry on bags on basic economy international flights",
+        "keywords": [
+          "basic economy carry on",
+          "airline baggage rules",
+          "airlines free carry on basic economy",
+          "basic economy carry on international",
+          "free carry on international flights",
+          "basic economy baggage rules"
+        ]
+      },
+      {
+        "prompt": "What is the cheapest month to visit Japan for cherry blossoms without huge crowds",
+        "keywords": [
+          "visit japan",
+          "japan cherry blossoms",
+          "cheapest month visit japan",
+          "japan cherry blossom season",
+          "cherry blossoms japan without crowds",
+          "best time visit japan cheap"
+        ]
+      }
+    ],
+    "personal_finance": [
+      {
+        "prompt": "What credit score do I need to qualify for the best mortgage rates right now",
+        "keywords": [
+          "mortgage rates",
+          "credit score mortgage",
+          "credit score for best mortgage rates",
+          "credit score to qualify mortgage",
+          "mortgage rates by credit score",
+          "minimum credit score mortgage"
+        ]
+      },
+      {
+        "prompt": "How do I consolidate credit card debt without hurting my credit score",
+        "keywords": [
+          "debt consolidation",
+          "credit card debt",
+          "consolidate credit card debt",
+          "debt consolidation without hurting credit",
+          "credit card debt consolidation options",
+          "consolidate debt credit score impact"
+        ]
+      },
+      {
+        "prompt": "Which high yield savings accounts have the best interest rates with no minimum balance",
+        "keywords": [
+          "high yield savings",
+          "savings account rates",
+          "high yield savings best rates",
+          "savings account no minimum balance",
+          "best high yield savings account",
+          "high interest savings no minimum"
+        ]
+      },
+      {
+        "prompt": "Should I do a Roth conversion this year if I expect higher taxes in retirement",
+        "keywords": [
+          "roth conversion",
+          "roth ira",
+          "roth conversion higher taxes retirement",
+          "should i do roth conversion",
+          "roth conversion this year",
+          "roth ira conversion strategy"
+        ]
+      },
+      {
+        "prompt": "How much life insurance coverage does a family with two kids actually need",
+        "keywords": [
+          "life insurance",
+          "life insurance coverage",
+          "how much life insurance family",
+          "life insurance coverage two kids",
+          "life insurance amount needed",
+          "family life insurance calculator"
+        ]
+      },
+      {
+        "prompt": "What's the best budgeting app for couples who want to combine some finances",
+        "keywords": [
+          "budgeting app",
+          "couples finances",
+          "budgeting app for couples",
+          "couples budgeting app combined finances",
+          "best budget app couples",
+          "shared finances app"
+        ]
+      },
+      {
+        "prompt": "How do I refinance my student loans to get a lower interest rate",
+        "keywords": [
+          "student loan refinancing",
+          "refinance student loans",
+          "refinance student loans lower rate",
+          "how to refinance student loans",
+          "student loan refinance rates"
+        ]
+      },
+      {
+        "prompt": "Is it better to lease or buy a car if I drive less than 10000 miles yearly",
+        "keywords": [
+          "lease vs buy car",
+          "car leasing",
+          "lease or buy a car",
+          "lease vs buy low mileage",
+          "lease or buy 10000 miles",
+          "car lease vs purchase"
+        ]
+      },
+      {
+        "prompt": "What are the tax benefits of a 529 plan versus a custodial brokerage account",
+        "keywords": [
+          "529 plan",
+          "college savings",
+          "529 plan vs custodial account",
+          "529 plan tax benefits",
+          "529 vs utma tax comparison",
+          "college savings 529 or brokerage"
+        ]
+      },
+      {
+        "prompt": "How much should I have saved for retirement by age 40 as a general benchmark",
+        "keywords": [
+          "retirement savings",
+          "retirement by age",
+          "retirement savings by age 40",
+          "how much saved retirement 40",
+          "retirement benchmark age 40",
+          "retirement savings milestones"
+        ]
+      }
+    ],
+    "real_estate_residential": [
+      {
+        "prompt": "How much does it cost to hire a real estate agent to sell my house",
+        "keywords": [
+          "real estate agent cost",
+          "realtor commission",
+          "cost to hire real estate agent",
+          "real estate agent fees selling house",
+          "realtor fees to sell home",
+          "real estate commission rate"
+        ]
+      },
+      {
+        "prompt": "What's the best mortgage lender for a first time home buyer with a low down payment",
+        "keywords": [
+          "mortgage lender first time buyer",
+          "low down payment mortgage",
+          "best mortgage lender first time homebuyer",
+          "low down payment home loan",
+          "first time buyer mortgage options",
+          "mortgage lender low down payment"
+        ]
+      },
+      {
+        "prompt": "How do I find a home inspector before buying a house",
+        "keywords": [
+          "home inspector",
+          "home inspection before buying",
+          "find a home inspector",
+          "home inspection cost",
+          "best home inspector near me",
+          "pre purchase home inspection"
+        ]
+      },
+      {
+        "prompt": "What is the average closing cost when buying a condo",
+        "keywords": [
+          "closing costs condo",
+          "average closing costs",
+          "condo closing cost estimate",
+          "closing costs buying condo",
+          "home closing cost calculator",
+          "condo purchase closing fees"
+        ]
+      },
+      {
+        "prompt": "Which neighborhoods have the best home value appreciation for buying a starter home",
+        "keywords": [
+          "home value appreciation",
+          "best neighborhoods for home appreciation",
+          "starter home appreciation areas",
+          "home price appreciation by neighborhood",
+          "best areas to buy starter home",
+          "home value growth neighborhoods"
+        ]
+      },
+      {
+        "prompt": "How do I get pre approved for a mortgage before house hunting",
+        "keywords": [
+          "mortgage pre approval",
+          "get pre approved for a mortgage",
+          "mortgage pre approval process",
+          "pre approval before house hunting",
+          "how to get pre approved home loan",
+          "mortgage preapproval requirements"
+        ]
+      },
+      {
+        "prompt": "What's the best way to sell a house without a realtor",
+        "keywords": [
+          "sell house without a realtor",
+          "fsbo",
+          "for sale by owner",
+          "sell home without agent",
+          "fsbo process",
+          "selling house by owner tips"
+        ]
+      },
+      {
+        "prompt": "How much should I offer on a house that's been on the market for 60 days",
+        "keywords": [
+          "how much to offer on a house",
+          "home offer strategy",
+          "offer on house on market 60 days",
+          "negotiating home purchase price",
+          "house offer below asking price",
+          "home buying offer tips"
+        ]
+      },
+      {
+        "prompt": "What is the best home warranty company for an older house",
+        "keywords": [
+          "home warranty company",
+          "best home warranty older house",
+          "home warranty plans comparison",
+          "home warranty for old homes",
+          "home warranty coverage cost",
+          "top rated home warranty companies"
+        ]
+      },
+      {
+        "prompt": "How do I find a real estate agent who specializes in relocation to a new city",
+        "keywords": [
+          "relocation real estate agent",
+          "real estate agent for relocation",
+          "relocation specialist realtor",
+          "find realtor new city relocation",
+          "real estate agent moving to new city",
+          "relocation real estate services"
+        ]
+      }
+    ],
+    "automotive": [
+      {
+        "prompt": "What's the best used car to buy under 20 thousand dollars for a family",
+        "keywords": [
+          "best used car under 20000",
+          "family used car",
+          "best used family car budget",
+          "used car under 20k",
+          "affordable family car used",
+          "best used suv under 20000"
+        ]
+      },
+      {
+        "prompt": "How much does it cost to replace a car's transmission",
+        "keywords": [
+          "transmission replacement cost",
+          "cost to replace transmission",
+          "transmission repair cost",
+          "new transmission price",
+          "transmission replacement quote",
+          "average transmission repair cost"
+        ]
+      },
+      {
+        "prompt": "Which car insurance company has the cheapest rates for a new driver",
+        "keywords": [
+          "cheapest car insurance new driver",
+          "car insurance for new drivers",
+          "cheap auto insurance young driver",
+          "best car insurance new driver rates",
+          "car insurance quotes new driver",
+          "affordable car insurance teen driver"
+        ]
+      },
+      {
+        "prompt": "What is the best extended car warranty company",
+        "keywords": [
+          "best extended car warranty",
+          "extended car warranty companies",
+          "top rated extended auto warranty",
+          "car warranty company comparison",
+          "extended vehicle warranty plans",
+          "best auto warranty provider"
+        ]
+      },
+      {
+        "prompt": "How do I find a reliable mechanic for an oil change near me",
+        "keywords": [
+          "mechanic near me",
+          "oil change near me",
+          "reliable mechanic oil change",
+          "best auto shop near me",
+          "oil change service near me",
+          "trusted mechanic nearby"
+        ]
+      },
+      {
+        "prompt": "What's the average trade in value for a 2018 Honda Accord",
+        "keywords": [
+          "trade in value honda accord",
+          "2018 honda accord trade in",
+          "car trade in value estimator",
+          "honda accord resale value",
+          "trade in value calculator",
+          "used honda accord value"
+        ]
+      },
+      {
+        "prompt": "Which electric vehicle has the longest range under 40 thousand dollars",
+        "keywords": [
+          "longest range ev under 40000",
+          "best affordable electric vehicle range",
+          "ev with best range budget",
+          "electric car long range cheap",
+          "best ev under 40k",
+          "affordable long range electric vehicle"
+        ]
+      },
+      {
+        "prompt": "How much does it cost to lease a car versus buying one",
+        "keywords": [
+          "lease vs buy car cost",
+          "car leasing cost comparison",
+          "lease versus finance a car",
+          "car lease payment estimate",
+          "is leasing cheaper than buying",
+          "car lease cost calculator"
+        ]
+      },
+      {
+        "prompt": "What is the best car buying app to compare prices from multiple dealerships",
+        "keywords": [
+          "car buying app",
+          "compare car prices dealerships",
+          "best car shopping app",
+          "car price comparison tool",
+          "new car price comparison app",
+          "car buying website deals"
+        ]
+      },
+      {
+        "prompt": "How do I find the carfax history before buying a used car",
+        "keywords": [
+          "carfax report",
+          "vehicle history report",
+          "carfax before buying used car",
+          "check car history report",
+          "used car history check",
+          "carfax vs autocheck"
+        ]
+      }
+    ],
+    "education_learning": [
+      {
+        "prompt": "What's the best online platform to learn Spanish for a beginner",
+        "keywords": [
+          "learn spanish online",
+          "best app to learn spanish",
+          "spanish learning platform beginner",
+          "online spanish course beginner",
+          "spanish learning app comparison",
+          "best way to learn spanish online"
+        ]
+      },
+      {
+        "prompt": "How much does a private SAT tutor cost per hour",
+        "keywords": [
+          "sat tutor cost",
+          "private sat tutor pricing",
+          "sat tutoring cost per hour",
+          "sat tutor rates",
+          "sat prep tutor cost",
+          "private tutoring sat cost"
+        ]
+      },
+      {
+        "prompt": "Which coding bootcamp has the best job placement rate for career changers",
+        "keywords": [
+          "coding bootcamp job placement rate",
+          "best coding bootcamp career change",
+          "coding bootcamp outcomes",
+          "bootcamp with best job placement",
+          "career change coding bootcamp",
+          "top coding bootcamps job placement"
+        ]
+      },
+      {
+        "prompt": "What is the best online degree program for working adults in accounting",
+        "keywords": [
+          "online accounting degree",
+          "online degree for working adults",
+          "best online accounting program",
+          "accounting degree online working professionals",
+          "part time online accounting degree",
+          "flexible online accounting bachelors degree"
+        ]
+      },
+      {
+        "prompt": "How do I find a good preschool near me that offers full day care",
+        "keywords": [
+          "preschool near me",
+          "full day preschool",
+          "best preschool near me",
+          "preschool with full day care",
+          "daycare preschool near me",
+          "preschool enrollment full day"
+        ]
+      },
+      {
+        "prompt": "What's the best test prep course for the GRE",
+        "keywords": [
+          "gre test prep course",
+          "best gre prep course",
+          "gre prep online course",
+          "gre study course comparison",
+          "gre test prep classes",
+          "top rated gre prep"
+        ]
+      },
+      {
+        "prompt": "Which online tutoring service is best for middle school math help",
+        "keywords": [
+          "online tutoring middle school math",
+          "math tutoring service online",
+          "best online math tutor middle school",
+          "virtual math tutor for kids",
+          "online math help middle school",
+          "math tutoring platform comparison"
+        ]
+      },
+      {
+        "prompt": "How much does it cost to get a personal trainer certification",
+        "keywords": [
+          "personal trainer certification cost",
+          "cpt certification price",
+          "cost to become certified personal trainer",
+          "personal training certification programs cost",
+          "cheapest personal trainer certification",
+          "pt certification course price"
+        ]
+      },
+      {
+        "prompt": "What is the best platform to learn to code for free",
+        "keywords": [
+          "learn to code for free",
+          "free coding platform",
+          "best free coding course",
+          "learn programming free online",
+          "free coding bootcamp alternative",
+          "free code learning websites"
+        ]
+      },
+      {
+        "prompt": "How do I choose the best summer camp for a 10 year old interested in science",
+        "keywords": [
+          "summer camp for kids science",
+          "best science summer camp",
+          "stem summer camp 10 year old",
+          "science camp for children",
+          "summer camp science program",
+          "kids summer stem camp"
+        ]
+      }
+    ],
+    "beauty_personal_care": [
+      {
+        "prompt": "What's the best anti aging skincare routine for someone in their 30s",
+        "keywords": [
+          "anti aging skincare routine",
+          "best skincare routine 30s",
+          "anti aging routine for 30s",
+          "skincare regimen for aging skin",
+          "best anti aging products 30s",
+          "skincare routine wrinkles prevention"
+        ]
+      },
+      {
+        "prompt": "How much does it cost to get laser hair removal for full legs",
+        "keywords": [
+          "laser hair removal cost",
+          "full leg laser hair removal price",
+          "laser hair removal legs cost",
+          "cost of laser hair removal full legs",
+          "laser hair removal pricing legs",
+          "full body laser hair removal cost"
+        ]
+      },
+      {
+        "prompt": "Which foundation is best for oily acne prone skin",
+        "keywords": [
+          "best foundation oily skin",
+          "foundation for acne prone skin",
+          "best foundation for acne",
+          "oily skin foundation recommendations",
+          "non comedogenic foundation",
+          "best makeup for oily acne skin"
+        ]
+      },
+      {
+        "prompt": "What's the best hair salon near me for balayage",
+        "keywords": [
+          "balayage salon near me",
+          "best balayage hair salon",
+          "hair salon balayage specialist",
+          "balayage near me",
+          "top rated balayage salon",
+          "balayage hair color salon"
+        ]
+      },
+      {
+        "prompt": "How do I find a dermatologist for chronic acne treatment",
+        "keywords": [
+          "dermatologist for acne",
+          "acne treatment dermatologist near me",
+          "chronic acne dermatologist",
+          "find a dermatologist acne",
+          "best dermatologist for acne treatment",
+          "acne specialist doctor"
+        ]
+      },
+      {
+        "prompt": "What is the best electric razor for sensitive skin",
+        "keywords": [
+          "best electric razor sensitive skin",
+          "electric shaver sensitive skin",
+          "razor for sensitive skin men",
+          "best shaver for razor bumps",
+          "electric razor recommendations sensitive skin",
+          "sensitive skin shaving razor"
+        ]
+      },
+      {
+        "prompt": "Which teeth whitening kit actually works best at home",
+        "keywords": [
+          "best teeth whitening kit",
+          "at home teeth whitening",
+          "teeth whitening kit that works",
+          "best whitening strips",
+          "home teeth whitening comparison",
+          "effective teeth whitening kit"
+        ]
+      },
+      {
+        "prompt": "How much does a keratin hair treatment cost at a salon",
+        "keywords": [
+          "keratin treatment cost",
+          "keratin hair treatment price salon",
+          "cost of keratin smoothing treatment",
+          "keratin treatment salon pricing",
+          "brazilian blowout cost",
+          "keratin treatment price"
+        ]
+      },
+      {
+        "prompt": "What's the best men's grooming subscription box",
+        "keywords": [
+          "mens grooming subscription box",
+          "best grooming subscription men",
+          "mens grooming box subscription",
+          "subscription box for men grooming",
+          "best mens skincare subscription",
+          "grooming kit subscription service"
+        ]
+      },
+      {
+        "prompt": "How do I find a nail salon that does gel manicures near me",
+        "keywords": [
+          "gel manicure near me",
+          "nail salon gel manicure",
+          "best nail salon gel nails",
+          "gel nails salon near me",
+          "nail salon near me manicure",
+          "gel manicure appointment nearby"
+        ]
+      }
+    ],
+    "food_beverage_delivery": [
+      {
+        "prompt": "What's the best meal kit delivery service for a family of four",
+        "keywords": [
+          "meal kit delivery service",
+          "best meal kit for families",
+          "meal kit delivery family of four",
+          "family meal kit comparison",
+          "meal delivery service families",
+          "best family meal kits"
+        ]
+      },
+      {
+        "prompt": "How much does grocery delivery cost compared to shopping in store",
+        "keywords": [
+          "grocery delivery cost",
+          "grocery delivery vs in store",
+          "cost of grocery delivery service",
+          "grocery delivery fees comparison",
+          "is grocery delivery worth it",
+          "grocery delivery pricing"
+        ]
+      },
+      {
+        "prompt": "Which food delivery app has the lowest fees for restaurant delivery",
+        "keywords": [
+          "food delivery app lowest fees",
+          "cheapest food delivery app",
+          "food delivery app fee comparison",
+          "lowest delivery fees restaurant app",
+          "best food delivery app fees",
+          "food delivery service cheapest"
+        ]
+      },
+      {
+        "prompt": "What's the best coffee subscription for whole bean coffee",
+        "keywords": [
+          "coffee subscription whole bean",
+          "best coffee subscription service",
+          "whole bean coffee subscription box",
+          "coffee bean delivery subscription",
+          "best specialty coffee subscription",
+          "coffee of the month club"
+        ]
+      },
+      {
+        "prompt": "How do I find a gluten free meal delivery service near me",
+        "keywords": [
+          "gluten free meal delivery",
+          "gluten free meal delivery near me",
+          "best gluten free meal service",
+          "gluten free food delivery service",
+          "meal delivery gluten free options",
+          "gluten free prepared meals delivery"
+        ]
+      },
+      {
+        "prompt": "What is the best wine subscription club for someone new to wine",
+        "keywords": [
+          "wine subscription club",
+          "best wine club for beginners",
+          "wine subscription beginner",
+          "wine of the month club",
+          "wine subscription box comparison",
+          "wine club for wine beginners"
+        ]
+      },
+      {
+        "prompt": "How much does it cost to order groceries through Instacart versus Amazon Fresh",
+        "keywords": [
+          "instacart vs amazon fresh",
+          "grocery delivery service comparison",
+          "instacart cost vs amazon fresh",
+          "grocery delivery app comparison cost",
+          "amazon fresh vs instacart pricing",
+          "cheapest grocery delivery app"
+        ]
+      },
+      {
+        "prompt": "Which meal prep delivery service is best for weight loss goals",
+        "keywords": [
+          "meal prep delivery weight loss",
+          "best meal delivery for weight loss",
+          "weight loss meal prep service",
+          "healthy meal delivery weight loss",
+          "meal plan delivery diet",
+          "best diet meal delivery service"
+        ]
+      },
+      {
+        "prompt": "What's the best late night food delivery option in a big city",
+        "keywords": [
+          "late night food delivery",
+          "food delivery open late",
+          "late night delivery app",
+          "24 hour food delivery near me",
+          "late night restaurant delivery options",
+          "best late night delivery service"
+        ]
+      },
+      {
+        "prompt": "How do I find a butcher that delivers grass fed beef",
+        "keywords": [
+          "grass fed beef delivery",
+          "butcher delivery grass fed beef",
+          "online butcher grass fed meat",
+          "grass fed beef delivery service",
+          "best grass fed beef delivery",
+          "meat delivery grass fed"
+        ]
+      }
+    ]
+  }
+}
