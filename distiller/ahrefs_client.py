@@ -2,7 +2,6 @@
 
 Only implements the two endpoints this project needs: keywords-overview
 (known-keyword volume) and matching-terms (related-keyword expansion).
-See /Users/tylergargula/.claude/skills/ahrefs-api for the fuller reference client.
 """
 
 from __future__ import annotations
